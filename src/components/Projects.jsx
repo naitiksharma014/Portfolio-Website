@@ -12,7 +12,7 @@ const projects = [
     description:
       "AI-powered resume analysis tool that evaluates resumes and provides improvement suggestions.",
     tech: ["React", "Node.js", "AI"],
-    github: "#",
+    github: "https://github.com/naitiksharma014/AI-Resume-Analyser-with-REACT-and-Tailwand",
     demo: "#",
   },
   {
@@ -21,7 +21,7 @@ const projects = [
       "Personal portfolio showcasing projects, skills, and achievements.",
     tech: ["React", "Tailwind"],
     github: "https://github.com/naitiksharma014/Portfolio-Website",
-    demo: "#",
+    demo: "https://naitik-web.vercel.app/",
   },
 ];
 

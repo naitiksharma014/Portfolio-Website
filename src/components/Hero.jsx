@@ -1,4 +1,4 @@
-import { HiOutlineMail } from "react-icons/hi";
+import { HiOutlineMail, HiDocumentText } from "react-icons/hi";
 
 export default function Hero() {
   return (
@@ -30,6 +30,18 @@ export default function Hero() {
               Get In Touch
             </a>
           </button>
+
+          <button className="bg-blue-500 px-6 py-3 rounded-lg flex items-center gap-2">
+            <HiDocumentText size={20} />
+            <a
+              href="https://drive.google.com/uc?export=download&id=1CrXRGOKpYVY4oh161evOHM2NXF5ojgzc"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Download Resume
+            </a>
+          </button>
+
         </div>
       </div>
     </section>
