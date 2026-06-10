@@ -2,7 +2,7 @@ const projects = [
   {
     title: "Desi Stayz",
     description:
-      "Travel booking platform with maps, authentication, reviews, and property listings.",
+      "Travel booking platform with authentication, reviews, and property listings.",
     tech: ["React", "MongoDB", "Express"],
     github: "https://github.com/naitiksharma014/Major-Project--Desi-Stayz",
     demo: "https://desi-stayz.onrender.com/listings",

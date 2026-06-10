@@ -51,9 +51,7 @@ export default function Contact() {
             </h3>
 
             <p className="text-gray-400 text-xl leading-relaxed mb-10">
-              Whether it's a full-stack web application,
-              a backend API, or just a discussion about
-              technology, feel free to reach out.
+              Let's Build it together! Whether you have a clear vision or just a rough idea, I'm here to help bring your project to life. Feel free to reach out for collaborations, freelance work, or just to say hi!
             </p>
 
             <div className="space-y-6">
